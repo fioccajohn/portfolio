@@ -1,16 +1,14 @@
 # John's Data Science Portfoloio
 
-Flat file structure for easy navigation.
+## Python
 
-## TODO
+### Data Wrangling:
 
-1. Download other files.
-[x] objects
-[] image links
-[] image analysis
+### Statistics, Machine Learning:
 
-2. Authentication for `pandas_gbq`.
+## SQL
 
-3. Tableau
+## Excel
 
-4. Stats Analysis
+## Tableau
+https://public.tableau.com/app/profile/john.fiocca/vizzes
