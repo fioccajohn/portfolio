@@ -11,7 +11,7 @@
 ### Statistics and Machine Learning
 - What can we learn about [penguins](https://github.com/fioccajohn/portfolio/blob/main/Penguins.ipynb) from the Palmer Penguins dataset?
 
-### Business Statistics
+### Business Applications
 - What's our probability of [hitting quota](https://github.com/fioccajohn/portfolio/blob/main/HittingQuota.ipynb)?
 
 ### Simulation Modeling
@@ -28,8 +28,8 @@
 
 ### Advanced Procedural Logic
 - [Archiving](https://github.com/fioccajohn/portfolio/blob/main/live-archive-and-resample.sql) sparse snapshots of live data.
-- Don't upload your data to online query formatters: use [this](https://github.com/fioccajohn/portfolio/blob/main/live-archive-and-resample.sql) procedure instead.
-- Get around complex ETL logic with a procedure to [rerun on failure](https://github.com/fioccajohn/portfolio/blob/main/live-archive-and-resample.sql).
+- Don't upload your data to online query formatters: use [this](https://github.com/fioccajohn/portfolio/blob/main/clipboard-to-query.sql) procedure instead.
+- Get around complex ETL logic with a procedure to [rerun on failure](https://github.com/fioccajohn/portfolio/blob/main/rerun-on-failure-procedure.sql).
 
 ## Tableau
 
