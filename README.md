@@ -13,13 +13,13 @@
 - Using web-scraping and regular expressions to wrangle [The Office](https://github.com/fioccajohn/portfolio/blob/main/WebScrapingTheOffice.ipynb) scripts into tidy data format.
 
 ### Statistics and Machine Learning:
-- [Penguins](https://github.com/fioccajohn/portfolio/blob/main/Penguins.ipynb)
+- What can we learn about [Penguins](https://github.com/fioccajohn/portfolio/blob/main/Penguins.ipynb) from the Palmer Penguins dataset?
 
 ### Simulation Modeling
 - Simulating the [World Series](https://github.com/fioccajohn/portfolio/blob/main/BaseballSimulation.ipynb) to untangle a T-Mobile promotion.
 
 ### Business Statistics
-- What's our probability of [Hitting Quota](https://github.com/fioccajohn/portfolio/blob/main/HittingQuota.ipynb)?
+- What's our probability of [hitting quota](https://github.com/fioccajohn/portfolio/blob/main/HittingQuota.ipynb)?
 
 ## SQL
 
@@ -36,10 +36,10 @@
 [My Tableau Public Profile](https://public.tableau.com/app/profile/john.fiocca/vizzes)
 
 ### Storytelling with Data
-- [The Met](https://public.tableau.com/app/profile/john.fiocca/viz/TheMetObjects/Exploration)
+- Let's explore the objects at [The Met](https://public.tableau.com/app/profile/john.fiocca/viz/TheMetObjects/Exploration). Most of the visuals have actions that will show up as menu links to The Met's website when you select. 
 
 ### Dashboards
-- [Stock Indices](https://public.tableau.com/app/profile/john.fiocca/viz/StockIndices_17321427855660/IndexDashboard)
+- A sample dashboard of [Stock Indices](https://public.tableau.com/app/profile/john.fiocca/viz/StockIndices_17321427855660/IndexDashboard) to help provide context for a big daily percent change for an index. Selecting a point will bring up a menu link to the CNBC daily market summary (only for past few years' dates).
 
 ## Excel
 
