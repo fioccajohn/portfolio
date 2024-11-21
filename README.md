@@ -2,6 +2,10 @@
 
 ## Python
 
+### Package development
+Bindle
+Chucks
+
 ### Data Wrangling, Scraping, and Scripting
 The Office
 
@@ -32,4 +36,10 @@ Model and screenshots.
 - Macro Automation
 
 ## Tableau
+
+### Stories
+### Dashboard Actions
+
 https://public.tableau.com/app/profile/john.fiocca/vizzes
+The Met
+Stock Indices
