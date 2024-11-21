@@ -1,0 +1,76 @@
+{
+  "chart": {
+    "title": "Life expectancy vs. health expenditure",
+    "subtitle": "Health expenditure includes all financing schemes and covers all aspects of healthcare. This data is adjusted for inflation and differences in the cost of living between countries.",
+    "note": "Health expenditure data is expressed in [international-$](#dod:int_dollar_abbreviation) at 2015 prices.",
+    "citation": "UN, World Population Prospects (2024); OECD Health Expenditure and Financing Database (2023)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/life-expectancy-vs-health-expenditure?v=1&csvType=full&useColumnShortNames=false"
+  },
+  "columns": {
+    "Life expectancy - Sex: all - Age: 0 - Variant: estimates": {
+      "titleShort": "Life Expectancy,age 0",
+      "titleLong": "Life Expectancy,age 0 - UN WPP",
+      "descriptionShort": "Period life expectancy for individuals who have reached age 0. Estimates are expressed as the expected age at death, not as years left to live.",
+      "descriptionKey": [],
+      "shortUnit": "years",
+      "unit": "years",
+      "timespan": "1950-2023",
+      "type": "Numeric",
+      "owidVariableId": 950927,
+      "shortName": "life_expectancy__sex_all__age_0__variant_estimates",
+      "lastUpdated": "2024-07-12",
+      "citationShort": "UN, World Population Prospects (2024) – processed by Our World in Data",
+      "citationLong": "UN, World Population Prospects (2024) – processed by Our World in Data. “Life Expectancy,age 0 – UN WPP” [dataset]. United Nations, “World Population Prospects” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/950927.metadata.json"
+    },
+    "Health expenditure per capita - Total": {
+      "titleShort": "Health expenditure per capita - Total",
+      "titleLong": "Health expenditure per capita - Total",
+      "descriptionShort": "Health expenditure in total divided by population. Includes all health care financing schemes: government, compulsory contributory insurance, voluntary insurance, household out-of-pocket payments, and rest of the world financing schemes.",
+      "descriptionKey": [
+        "The data is measured in international-$ at 2015 prices – this adjusts for inflation and for differences in the cost of living between countries."
+      ],
+      "shortUnit": "$",
+      "unit": "international-$ in 2015 prices",
+      "timespan": "1970-2022",
+      "type": "Numeric",
+      "owidVariableId": 821338,
+      "shortName": "ppp_dollars_per_capita__financing_scheme_total",
+      "lastUpdated": "2024-02-23",
+      "nextUpdate": "2025-02-22",
+      "citationShort": "OECD Health Expenditure and Financing Database (2023) – with minor processing by Our World in Data",
+      "citationLong": "OECD Health Expenditure and Financing Database (2023) – with minor processing by Our World in Data. “Health expenditure per capita - Total” [dataset]. OECD Health Expenditure and Financing Database, “OECD Health Expenditure and Financing Database” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/821338.metadata.json"
+    },
+    "Population (historical)": {
+      "titleShort": "Population (historical)",
+      "titleLong": "Population (historical)",
+      "descriptionShort": "Population by country, available from 10,000 BCE to 2023, based on data and estimates from different sources.",
+      "descriptionKey": [],
+      "descriptionProcessing": "The population data is constructed by combining data from multiple sources:\n\n- 10,000 BCE - 1799: Historical estimates by HYDE (v3.3).\n\n- 1800 - 1949: Historical estimates by Gapminder (v7).\n\n- 1950-2023: Population records by the UN World Population Prospects (2024 revision).",
+      "shortUnit": "",
+      "unit": "people",
+      "timespan": "-10000-2023",
+      "type": "Integer",
+      "owidVariableId": 953903,
+      "shortName": "population_historical",
+      "lastUpdated": "2024-07-15",
+      "nextUpdate": "2026-07-15",
+      "citationShort": "HYDE (2023); Gapminder (2022); UN WPP (2024) – with major processing by Our World in Data",
+      "citationLong": "HYDE (2023); Gapminder (2022); UN WPP (2024) – with major processing by Our World in Data. “Population (historical)” [dataset]. PBL Netherlands Environmental Assessment Agency, “History Database of the Global Environment 3.3”; Gapminder, “Population v7”; United Nations, “World Population Prospects”; Gapminder, “Systema Globalis” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/953903.metadata.json"
+    },
+    "Continent": {
+      "titleShort": "Continent",
+      "titleLong": "Continent",
+      "unit": "",
+      "timespan": "",
+      "type": "Continent",
+      "owidVariableId": 123,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Continent” [dataset]. Our World In Data [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/123.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-11-12"
+}
