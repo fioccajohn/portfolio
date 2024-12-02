@@ -11,6 +11,9 @@
 ### Statistics and Machine Learning
 - What can we learn about [penguins](https://github.com/fioccajohn/portfolio/blob/main/Penguins.ipynb) from the Palmer Penguins dataset?
 
+### Forecasting
+[Time Series Analysis](https://github.com/fioccajohn/portfolio/blob/main/Forecasting.ipynb) with naïve benchmarks, SARIMA with Statsmodels, and automated forecasts with Prophet and Nixtla Statsforecast. For this data, my trustworthy SARIMA model outperforms all others.
+
 ### Business Applications
 - What's our probability of [hitting quota](https://github.com/fioccajohn/portfolio/blob/main/HittingQuota.ipynb)?
 
