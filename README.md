@@ -50,7 +50,7 @@ Don't download macro-enabled Excel workbooks from the internet! I've provided [s
 
 ### Strengths:
 - Never using a mouse.
-- PowerQuery wrangling and data connectivity.
+- Power Query wrangling and data connectivity.
 - Structured Table References.
 - What-If Analysis (Goal-Seek and Scenario Manager).
 - Macro Automation.
