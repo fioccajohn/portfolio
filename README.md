@@ -21,8 +21,8 @@
 - Simulating the [World Series](https://github.com/fioccajohn/portfolio/blob/main/BaseballSimulation.ipynb) to understand the assumptions behind a T-Mobile home run promotion.
 
 ### Package development
-- [Bindle](https://github.com/fioccajohn/bindle): My personal repo of utilities to carry with me.
-- [Chucks](https://github.com/fioccajohn/chucks): My pandas extensions to interact with the Charles Schwab API.
+- Bindle ([GitHub](https://github.com/fioccajohn/bindle), [PyPI](https://pypi.org/project/bindle/)): My personal repo of utilities to carry with me.
+- Chucks ([Github](https://github.com/fioccajohn/chucks), [PyPI](https://pypi.org/project/chucks/)): My pandas extensions to interact with the Charles Schwab API.
 
 ## SQL
 
