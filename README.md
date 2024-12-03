@@ -5,7 +5,7 @@
 
 ## Python 🐍
 
-We'd be more efficient if we could speak in Python and code in English.
+I'd love to speak in Python and code in English.
 
 ### About me — by way of Python.
 - My [hobbies](https://github.com/fioccajohn/portfolio/blob/main/Hobbies.ipynb).
@@ -43,7 +43,7 @@ I'm a big BigQuery fan.
 
 ## Tableau 📊
 
-[My Tableau Public Profile](https://public.tableau.com/app/profile/john.fiocca/vizzes)
+My Tableau Public [Profile](https://public.tableau.com/app/profile/john.fiocca/vizzes)
 
 ### Storytelling with Data
 - Let's explore the objects at [The Met](https://public.tableau.com/app/profile/john.fiocca/viz/TheMetObjects/Exploration). Most of the visuals have actions that will show up as menu links to The Met's website when you select. 
