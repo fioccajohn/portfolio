@@ -1,4 +1,4 @@
-# John's Data Science Portfoloio 💼
+# John's Data Science Portfolio 💼
 
 > "Que sais-je?"
 > – Michel Eyquem, Seigneur de Montaigne
