@@ -1,6 +1,11 @@
 # John's Data Science Portfoloio
 
+> "Que sais-je?"
+> – Michel Eyquem, Seigneur de Montaigne
+
 ## Python
+
+If only we could speak in Python and code in english.
 
 ### About me — by way of Python.
 - My [hobbies](https://github.com/fioccajohn/portfolio/blob/main/Hobbies.ipynb).
@@ -25,6 +30,8 @@
 - Chucks ([Github](https://github.com/fioccajohn/chucks), [PyPI](https://pypi.org/project/chucks/)): My pandas extensions to interact with the Charles Schwab API.
 
 ## SQL
+
+I'm a big BigQuery fan.
 
 ### Advanced Querying Techniques
 - [The Big Calendar](https://github.com/fioccajohn/portfolio/blob/main/the-big-calendar.sql)
@@ -53,4 +60,4 @@ Don't download macro-enabled Excel workbooks from the internet! I've provided [s
 - Power Query wrangling and data connectivity.
 - Structured Table References.
 - What-If Analysis (Goal-Seek and Scenario Manager).
-- Macro Automation.
+- Macro automation.
