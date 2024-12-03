@@ -1,9 +1,9 @@
-# John's Data Science Portfoloio
+# John's Data Science Portfoloio 💼
 
 > "Que sais-je?"
 > – Michel Eyquem, Seigneur de Montaigne
 
-## Python
+## Python 🐍
 
 If only we could speak in Python and code in English.
 
@@ -29,7 +29,7 @@ If only we could speak in Python and code in English.
 - Bindle ([GitHub](https://github.com/fioccajohn/bindle), [PyPI](https://pypi.org/project/bindle/)): My personal repo of utilities to carry with me.
 - Chucks ([Github](https://github.com/fioccajohn/chucks), [PyPI](https://pypi.org/project/chucks/)): My pandas extensions to interact with the Charles Schwab API.
 
-## SQL
+## SQL 💾
 
 I'm a big BigQuery fan.
 
@@ -41,7 +41,7 @@ I'm a big BigQuery fan.
 - Don't upload your data to online query formatters: use [this](https://github.com/fioccajohn/portfolio/blob/main/clipboard-to-query.sql) procedure instead.
 - Get around complex ETL logic with a procedure to [rerun on failure](https://github.com/fioccajohn/portfolio/blob/main/rerun-on-failure-procedure.sql).
 
-## Tableau
+## Tableau 📊
 
 [My Tableau Public Profile](https://public.tableau.com/app/profile/john.fiocca/vizzes)
 
@@ -51,7 +51,7 @@ I'm a big BigQuery fan.
 ### Dashboards
 - A sample dashboard of [Stock Indices](https://public.tableau.com/app/profile/john.fiocca/viz/StockIndices_17321427855660/IndexDashboard) to help provide context for a big daily percent change for an index. Selecting a point will bring up a menu link to the CNBC daily market summary (only for past few years' dates).
 
-## Excel
+## Excel 🧮
 
 Don't download macro-enabled Excel workbooks from the internet! I've provided [screenshots](https://github.com/fioccajohn/portfolio/blob/main/DayOfWeekExcelModel-Screenshots.pdf) of a model for creating custom weekday distributions.
 
