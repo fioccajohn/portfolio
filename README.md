@@ -5,7 +5,7 @@
 
 ## Python
 
-If only we could speak in Python and code in english.
+If only we could speak in Python and code in English.
 
 ### About me — by way of Python.
 - My [hobbies](https://github.com/fioccajohn/portfolio/blob/main/Hobbies.ipynb).
