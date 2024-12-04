@@ -3,6 +3,8 @@
 > "Que sais-je?"
 > – Michel Eyquem, Seigneur de Montaigne
 
+Like any good DJ, I also take requests.
+
 ## Python 🐍
 
 I'd love to speak in Python and code in English.
