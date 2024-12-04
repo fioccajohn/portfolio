@@ -43,7 +43,11 @@ I'm a big BigQuery fan.
 
 ## Tableau 📊
 
-My Tableau Public [Profile](https://public.tableau.com/app/profile/john.fiocca/vizzes)
+My Tableau Public [Profile](https://public.tableau.com/app/profile/john.fiocca/vizzes).
+
+<img src="https://github.com/fioccajohn/portfolio/blob/main/Tableau/Screenshots/met-pareto.png" width="400" height="200">
+<img src="https://github.com/fioccajohn/portfolio/blob/main/Tableau/Screenshots/met-scatter.png" width="400" height="200">
+<img src="https://github.com/fioccajohn/portfolio/blob/main/Tableau/Screenshots/met-treemap.png" width="400" height="200">
 
 ### Storytelling with Data
 - Let's explore the objects at [The Met](https://public.tableau.com/app/profile/john.fiocca/viz/TheMetObjects/Exploration). Most of the visuals have actions that will show up as menu links to The Met's website when you select. 
