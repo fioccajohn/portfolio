@@ -8,22 +8,22 @@
 I'd love to speak in Python and code in English.
 
 ### About me — by way of Python.
-- My [hobbies](https://github.com/fioccajohn/portfolio/blob/main/Hobbies.ipynb).
+- My [hobbies](https://github.com/fioccajohn/portfolio/blob/main/Python/Hobbies.ipynb).
 
 ### Data Wrangling, Scraping, and Scripting
-- Using web-scraping and regular expressions to wrangle [The Office](https://github.com/fioccajohn/portfolio/blob/main/WebScrapingTheOffice.ipynb) scripts into tidy data format.
+- Using web-scraping and regular expressions to wrangle [The Office](https://github.com/fioccajohn/portfolio/blob/main/Python/WebScrapingTheOffice.ipynb) scripts into tidy data format.
 
 ### Statistics and Machine Learning
-- What can we learn about [penguins](https://github.com/fioccajohn/portfolio/blob/main/Penguins.ipynb) from the Palmer Penguins dataset?
+- What can we learn about [penguins](https://github.com/fioccajohn/portfolio/blob/main/Python/Penguins.ipynb) from the Palmer Penguins dataset?
 
 ### Forecasting
-- [Time Series Analysis](https://github.com/fioccajohn/portfolio/blob/main/Forecasting.ipynb) with naïve benchmarks, SARIMA with Statsmodels, and automated forecasts with Prophet and Nixtla Statsforecast. For this data, my trustworthy SARIMA model outperforms all others.
+- [Time Series Analysis](https://github.com/fioccajohn/portfolio/blob/main/Python/Forecasting.ipynb) with naïve benchmarks, SARIMA with Statsmodels, and automated forecasts with Prophet and Nixtla Statsforecast. For this data, my trustworthy SARIMA model outperforms all others.
 
 ### Business Applications
-- What's our probability of [hitting quota](https://github.com/fioccajohn/portfolio/blob/main/HittingQuota.ipynb)?
+- What's our probability of [hitting quota](https://github.com/fioccajohn/portfolio/blob/main/Python/HittingQuota.ipynb)?
 
 ### Simulation Modeling
-- Simulating the [World Series](https://github.com/fioccajohn/portfolio/blob/main/BaseballSimulation.ipynb) to understand the assumptions behind a T-Mobile home run promotion.
+- Simulating the [World Series](https://github.com/fioccajohn/portfolio/blob/main/Python/BaseballSimulation.ipynb) to understand the assumptions behind a T-Mobile home run promotion.
 
 ### Package development
 - Bindle ([GitHub](https://github.com/fioccajohn/bindle), [PyPI](https://pypi.org/project/bindle/)): My personal repo of utilities to carry with me.
@@ -34,12 +34,12 @@ I'd love to speak in Python and code in English.
 I'm a big BigQuery fan.
 
 ### Advanced Querying Techniques
-- [The Big Calendar](https://github.com/fioccajohn/portfolio/blob/main/the-big-calendar.sql)
+- [The Big Calendar](https://github.com/fioccajohn/portfolio/blob/main/SQL/the-big-calendar.sql)
 
 ### Advanced Procedural Logic
-- [Archiving](https://github.com/fioccajohn/portfolio/blob/main/live-archive-and-resample.sql) sparse snapshots of live data.
-- Don't upload your data to online query formatters: use [this](https://github.com/fioccajohn/portfolio/blob/main/clipboard-to-query.sql) procedure instead.
-- Get around complex ETL logic with a procedure to [rerun on failure](https://github.com/fioccajohn/portfolio/blob/main/rerun-on-failure-procedure.sql).
+- [Archiving](https://github.com/fioccajohn/portfolio/blob/main/SQL/live-archive-and-resample.sql) sparse snapshots of live data.
+- Don't upload your data to online query formatters: use [this](https://github.com/fioccajohn/portfolio/blob/main/SQL/clipboard-to-query.sql) procedure instead.
+- Get around complex ETL logic with a procedure to [rerun on failure](https://github.com/fioccajohn/portfolio/blob/main/SQL/rerun-on-failure-procedure.sql).
 
 ## Tableau 📊
 
@@ -53,7 +53,7 @@ My Tableau Public [Profile](https://public.tableau.com/app/profile/john.fiocca/v
 
 ## Excel 🧮
 
-Don't download macro-enabled Excel workbooks from the internet! I've provided [screenshots](https://github.com/fioccajohn/portfolio/blob/main/DayOfWeekExcelModel-Screenshots.pdf) of a model for creating custom weekday distributions.
+Don't download macro-enabled Excel workbooks from the internet! I've provided [screenshots](https://github.com/fioccajohn/portfolio/blob/main/Excel/DayOfWeekExcelModel-Screenshots.pdf) of a model for creating custom weekday distributions.
 
 ### Strengths:
 - Never using a mouse.
