@@ -7,7 +7,7 @@ Like any good DJ, I also take requests.
 
 ## Python 🐍
 
-I'd love to speak in Python and code in English.
+Let's start speaking in Python and coding in English.
 
 ### About me — by way of Python.
 - My [hobbies](https://github.com/fioccajohn/portfolio/blob/main/Python/Hobbies.ipynb).
