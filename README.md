@@ -9,6 +9,8 @@ Like any good DJ, I also take requests.
 
 Let's start speaking in Python and coding in English.
 
+<img src="https://github.com/fioccajohn/portfolio/blob/main/Python/Screenshots/penguins-kmeans.png" width="400" height="200">
+
 ### About me — by way of Python.
 - My [hobbies](https://github.com/fioccajohn/portfolio/blob/main/Python/Hobbies.ipynb).
 
