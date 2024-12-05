@@ -63,6 +63,8 @@ My Tableau Public [Profile](https://public.tableau.com/app/profile/john.fiocca/v
 
 Don't download macro-enabled Excel workbooks from the internet! I've provided [screenshots](https://github.com/fioccajohn/portfolio/blob/main/Excel/DayOfWeekExcelModel-Screenshots.pdf) of a model for creating custom weekday distributions.
 
+<img src="https://github.com/fioccajohn/portfolio/blob/main/Excel/DayOfWeekExcelModel-Screenshots.png" width="400" height="200">
+
 ### Strengths:
 - Never using a mouse.
 - Power Query wrangling and data connectivity.
