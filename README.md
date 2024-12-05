@@ -7,7 +7,7 @@ Like a good DJ, I also take requests.
 
 ## Python 🐍
 
-Let's start speaking in Python and coding in English.
+"Fluent in."
 
 <img src="https://github.com/fioccajohn/portfolio/blob/main/Python/Screenshots/penguins-kmeans.png" width="300" height="200">
 
