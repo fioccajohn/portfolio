@@ -7,6 +7,8 @@
 
 I'd love to speak in Python and code in English.
 
+<img src="https://github.com/fioccajohn/portfolio/blob/main/Python/Screenshots/penguins-kmeans.png" width="400" height="200">
+
 ### About me — by way of Python.
 - My [hobbies](https://github.com/fioccajohn/portfolio/blob/main/Python/Hobbies.ipynb).
 
