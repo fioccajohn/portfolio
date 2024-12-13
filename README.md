@@ -31,7 +31,10 @@ Let's start speaking in Python and coding in English.
 
 ### Package development
 - Bindle ([GitHub](https://github.com/fioccajohn/bindle), [PyPI](https://pypi.org/project/bindle/)): My personal repo of utilities to carry with me.
-- Chucks ([Github](https://github.com/fioccajohn/chucks), [PyPI](https://pypi.org/project/chucks/)): My pandas extensions to interact with the Charles Schwab API.
+- Chucks ([GitHub](https://github.com/fioccajohn/chucks), [PyPI](https://pypi.org/project/chucks/)): My pandas extensions to interact with the Charles Schwab API.
+
+### Airflow ETL
+- An example of an [Airflow DAG](https://github.com/fioccajohn/portfolio/blob/main/Python/example_yfinance_dag.py) that pulls the price history from SPY's top holdings daily and loads them into PostgreSQL.
 
 ## SQL 💾
 
