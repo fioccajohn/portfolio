@@ -1,0 +1,19 @@
+item_id,weight,cubic_volume,ideal_storage_type,best_storage_option,site_name
+100,2,4,Fast,Fast,Colorado
+100,2,4,Fast,Moderate,Los Angeles
+100,2,4,Fast,Fast,New York
+101,3,7,Moderate,Moderate,Colorado
+101,3,7,Moderate,Moderate,Los Angeles
+101,3,7,Moderate,Slow,New York
+102,5,15,Moderate,Moderate,Colorado
+102,5,15,Moderate,Moderate,Los Angeles
+102,5,15,Moderate,Slow,New York
+103,5,21,Moderate,Moderate,Colorado
+103,5,21,Moderate,Moderate,Los Angeles
+103,5,21,Moderate,Slow,New York
+104,11,2,Slow,Slow,Colorado
+104,11,2,Slow,Slow,Los Angeles
+104,11,2,Slow,Slow,New York
+105,2,70,Slow,Slow,Colorado
+105,2,70,Slow,Slow,Los Angeles
+105,2,70,Slow,Slow,New York
