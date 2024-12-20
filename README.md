@@ -48,6 +48,9 @@ I'm a big BigQuery fan.
 - Don't upload your data to online query formatters: use [this](https://github.com/fioccajohn/portfolio/blob/main/SQL/clipboard-to-query.sql) procedure instead.
 - Get around complex ETL logic with a procedure to [rerun on failure](https://github.com/fioccajohn/portfolio/blob/main/SQL/rerun-on-failure-procedure.sql).
 
+### Advanced Business Logic
+- Here's a [technique](https://github.com/fioccajohn/portfolio/blob/main/SQL/site-item-routing.sql) I came up with to dynamically assign items to the optimal storage location in a scalable way.
+
 ## Tableau 📊
 
 My Tableau Public [Profile](https://public.tableau.com/app/profile/john.fiocca/vizzes).
